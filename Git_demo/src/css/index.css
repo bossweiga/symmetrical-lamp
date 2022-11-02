@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+a {
+    color: blue;
+    cursor: pointer;
+}
+
+input {
+    margin: 15px;
+}
+h1 {
+    text-align: center;
+    color: red;
+    background-color: yellow;
+  
+  }
