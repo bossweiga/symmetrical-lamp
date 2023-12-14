@@ -1,0 +1,13 @@
+.test{
+    color: red;
+}
+.outer{
+    width: 200px;height: 100px;
+    background-color: gray;
+    .inner{
+        font-size: 30px;
+    }
+}
+.tabless{
+    background-color: red;
+}
